@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Desktop/c_sharp/Practice/bin/Debug/net7.0/Practice
+/Users/shahriarkabir/Desktop/c_sharp/Practice/bin/Debug/net7.0/Practice.deps.json
+/Users/shahriarkabir/Desktop/c_sharp/Practice/bin/Debug/net7.0/Practice.runtimeconfig.json
+/Users/shahriarkabir/Desktop/c_sharp/Practice/bin/Debug/net7.0/Practice.dll
+/Users/shahriarkabir/Desktop/c_sharp/Practice/bin/Debug/net7.0/Practice.pdb
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.AssemblyInfo.cs
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.dll
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/refint/Practice.dll
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.pdb
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/Practice.genruntimeconfig.cache
+/Users/shahriarkabir/Desktop/c_sharp/Practice/obj/Debug/net7.0/ref/Practice.dll
