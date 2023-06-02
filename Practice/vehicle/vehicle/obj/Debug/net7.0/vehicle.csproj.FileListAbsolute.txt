@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/bin/Debug/net7.0/vehicle
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/bin/Debug/net7.0/vehicle.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/bin/Debug/net7.0/vehicle.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/bin/Debug/net7.0/vehicle.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/bin/Debug/net7.0/vehicle.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/refint/vehicle.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/vehicle.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/vehicle/vehicle/obj/Debug/net7.0/ref/vehicle.dll
