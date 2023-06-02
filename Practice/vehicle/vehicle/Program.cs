@@ -11,13 +11,12 @@ namespace vehicle
         public string? value;
         public void setSpeed(string speed)
         {
-
-            this.speed = speed;
+           this.speed = speed;
         }
 
         public void printValue()
         {
-            Console.WriteLine("Color: " + this.color + "\nBrand: " + this.brand + "\nSpeed: " + this.speed +
+            Console.WriteLine("\nColor: " + this.color + "\nBrand: " + this.brand + "\nSpeed: " + this.speed +
                 "\nNumber of wheel: " + this.noOfWheel + "\nBrandValue: " + this.value);
         }
     }
@@ -87,10 +86,16 @@ namespace vehicle
             static void Main(string[] args)
             {
                 Toyota toyota = new Toyota();
-                toyota.setValue("Red", "Toyota", "50kmph", "High", 4);
-            toyota.printValue();
+                toyota.setValue("Red", "Toyota", "150kmph", "High", 4);
+                toyota.printValue();
+
+                Axio axio = new Axio();
+                axio.setValue("Black", "Axio", "200kmph", "Mid", 4);
+                axio.printValue();
+
+                Cycle cycle = new Cycle();
+                cycle.setValue("Blue", "Suzuki", "150kmph", "high", 4);
+                cycle.printValue();
             }
         }
-
-
     }
