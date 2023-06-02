@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/bin/Debug/net7.0/Laptop Information
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/bin/Debug/net7.0/Laptop Information.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/bin/Debug/net7.0/Laptop Information.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/bin/Debug/net7.0/Laptop Information.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/bin/Debug/net7.0/Laptop Information.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/refint/Laptop Information.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/Laptop Information.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Laptop Information/Laptop Information/obj/Debug/net7.0/ref/Laptop Information.dll

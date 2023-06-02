@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BD597DE9-42FC-4A58-90DE-0E03BF7996A2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATM Machine/Program.cs">
+    <Files>
+      <File FileName="ATM Machine/Program.cs" Line="48" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATM Machine" expanded="True">
+            <Node name="ATM Machine" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ATM_220Machine PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

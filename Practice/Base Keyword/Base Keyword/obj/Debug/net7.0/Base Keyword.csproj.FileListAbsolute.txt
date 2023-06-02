@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/bin/Debug/net7.0/Base Keyword
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/bin/Debug/net7.0/Base Keyword.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/bin/Debug/net7.0/Base Keyword.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/bin/Debug/net7.0/Base Keyword.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/bin/Debug/net7.0/Base Keyword.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/refint/Base Keyword.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/Base Keyword.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Base Keyword/Base Keyword/obj/Debug/net7.0/ref/Base Keyword.dll

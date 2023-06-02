@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/bin/Debug/net7.0/ATM Machine
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/bin/Debug/net7.0/ATM Machine.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/bin/Debug/net7.0/ATM Machine.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/bin/Debug/net7.0/ATM Machine.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/bin/Debug/net7.0/ATM Machine.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/refint/ATM Machine.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ATM Machine.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/ATM Machine/ATM Machine/obj/Debug/net7.0/ref/ATM Machine.dll

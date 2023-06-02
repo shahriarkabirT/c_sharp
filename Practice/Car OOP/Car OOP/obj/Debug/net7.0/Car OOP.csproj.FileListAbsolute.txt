@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/bin/Debug/net7.0/Car OOP
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/bin/Debug/net7.0/Car OOP.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/bin/Debug/net7.0/Car OOP.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/bin/Debug/net7.0/Car OOP.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/bin/Debug/net7.0/Car OOP.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/refint/Car OOP.dll
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.pdb
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/Car OOP.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Practice/Car OOP/Car OOP/obj/Debug/net7.0/ref/Car OOP.dll

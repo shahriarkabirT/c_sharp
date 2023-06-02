@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/bin/Debug/net7.0/Perfect Number
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/bin/Debug/net7.0/Perfect Number.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/bin/Debug/net7.0/Perfect Number.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/bin/Debug/net7.0/Perfect Number.dll
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/bin/Debug/net7.0/Perfect Number.pdb
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.dll
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/refint/Perfect Number.dll
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.pdb
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/Perfect Number.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Problem Solving /Perfect Number/Perfect Number/obj/Debug/net7.0/ref/Perfect Number.dll

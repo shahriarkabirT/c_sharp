@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BF1FBB83-A9F8-4372-A683-317B934C42CB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.accessmodifier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="accessmodifier/assembly/Differentasm.cs">
+    <Files>
+      <File FileName="accessmodifier/Program.cs" Line="94" Column="2" />
+      <File FileName="accessmodifier/assembly/Differentasm.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="accessmodifier" expanded="True">
+            <Node name="accessmodifier" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="assembly" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
