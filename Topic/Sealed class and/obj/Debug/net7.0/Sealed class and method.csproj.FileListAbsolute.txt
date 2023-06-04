@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/bin/Debug/net7.0/Sealed class and method
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/bin/Debug/net7.0/Sealed class and method.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/bin/Debug/net7.0/Sealed class and method.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/bin/Debug/net7.0/Sealed class and method.dll
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/bin/Debug/net7.0/Sealed class and method.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.dll
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/refint/Sealed class and method.dll
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/Sealed class and method.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Sealed class and/obj/Debug/net7.0/ref/Sealed class and method.dll
