@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Projects/multilevel inheritance/bin/Debug/net7.0/multilevel inheritance
+/Users/shahriarkabir/Projects/multilevel inheritance/bin/Debug/net7.0/multilevel inheritance.deps.json
+/Users/shahriarkabir/Projects/multilevel inheritance/bin/Debug/net7.0/multilevel inheritance.runtimeconfig.json
+/Users/shahriarkabir/Projects/multilevel inheritance/bin/Debug/net7.0/multilevel inheritance.dll
+/Users/shahriarkabir/Projects/multilevel inheritance/bin/Debug/net7.0/multilevel inheritance.pdb
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.AssemblyInfo.cs
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.dll
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/refint/multilevel inheritance.dll
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.pdb
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/multilevel inheritance.genruntimeconfig.cache
+/Users/shahriarkabir/Projects/multilevel inheritance/obj/Debug/net7.0/ref/multilevel inheritance.dll

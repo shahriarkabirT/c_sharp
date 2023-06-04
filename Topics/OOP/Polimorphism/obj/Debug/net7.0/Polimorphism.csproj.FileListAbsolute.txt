@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/bin/Debug/net7.0/Polimorphism
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/bin/Debug/net7.0/Polimorphism.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/bin/Debug/net7.0/Polimorphism.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/bin/Debug/net7.0/Polimorphism.dll
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/bin/Debug/net7.0/Polimorphism.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.dll
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/refint/Polimorphism.dll
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/Polimorphism.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Polimorphism/obj/Debug/net7.0/ref/Polimorphism.dll

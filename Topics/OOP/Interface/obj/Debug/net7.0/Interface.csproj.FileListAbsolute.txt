@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/bin/Debug/net7.0/Interface
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/bin/Debug/net7.0/Interface.dll
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.dll
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/obj/Debug/net7.0/ref/Interface.dll
