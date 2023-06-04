@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Destructor", "Destructor.csproj", "{609F490B-EAE4-4D3C-BDE4-9339C4DC2CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609F490B-EAE4-4D3C-BDE4-9339C4DC2CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609F490B-EAE4-4D3C-BDE4-9339C4DC2CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609F490B-EAE4-4D3C-BDE4-9339C4DC2CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609F490B-EAE4-4D3C-BDE4-9339C4DC2CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B216C01-E9BA-4CBD-989A-C30EEB84A3DE}
+	EndGlobalSection
+EndGlobal

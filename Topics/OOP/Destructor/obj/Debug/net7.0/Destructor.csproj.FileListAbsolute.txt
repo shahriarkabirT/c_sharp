@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/bin/Debug/net7.0/Destructor
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/bin/Debug/net7.0/Destructor.deps.json
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/bin/Debug/net7.0/Destructor.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/bin/Debug/net7.0/Destructor.dll
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/bin/Debug/net7.0/Destructor.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.dll
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/refint/Destructor.dll
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.pdb
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/Destructor.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Destructor/obj/Debug/net7.0/ref/Destructor.dll
