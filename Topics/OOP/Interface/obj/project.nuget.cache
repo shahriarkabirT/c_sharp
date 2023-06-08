@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x8S33ecT+u1EycvAQPXxwuw2RTbfXuN5PTNFZOJ8RMVFYIFWBToAYiXPqXwhf7ZzuQSHRwSLH2vMy1QN4VLA8g==",
+  "dgSpecHash": "06Rjs01NV3N5hnucS9lJkRwmkz2NKdjNm5Ik6+GXYfAPtOLZGNMPQbcXe6JbGGEoBf11F2PZNmdynt70D9U4sw==",
   "success": true,
-  "projectFilePath": "/Users/shahriarkabir/Development files/c_sharp/Topic/Interface/Interface.csproj",
+  "projectFilePath": "/Users/shahriarkabir/Development files/c_sharp/Topics/OOP/Interface/Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

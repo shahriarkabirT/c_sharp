@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{C5FF12CA-4147-4A4B-A547-8D584E49F51C}|Default">
+﻿<Properties StartupConfiguration="{EABD35A0-6A48-41F3-BFFA-F414848E3048}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SGPA_220Calculator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="24" Column="1" />
+      <File FileName="Program.cs" Line="21" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Interface" expanded="True">
-            <Node name="Interface" expanded="True">
+          <Node name="SGPA Calculator" expanded="True">
+            <Node name="SGPA Calculator" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
