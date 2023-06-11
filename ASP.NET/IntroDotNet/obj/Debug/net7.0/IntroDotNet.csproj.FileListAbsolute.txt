@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/bin/Debug/net7.0/IntroDotNet
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/bin/Debug/net7.0/IntroDotNet.deps.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/bin/Debug/net7.0/IntroDotNet.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/bin/Debug/net7.0/IntroDotNet.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/bin/Debug/net7.0/IntroDotNet.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/refint/IntroDotNet.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/IntroDotNet.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/IntroDotNet/obj/Debug/net7.0/ref/IntroDotNet.dll
