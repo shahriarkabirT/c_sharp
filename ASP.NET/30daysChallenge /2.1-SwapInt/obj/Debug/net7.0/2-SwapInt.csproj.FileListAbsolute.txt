@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/bin/Debug/net7.0/2-SwapInt
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/bin/Debug/net7.0/2-SwapInt.deps.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/bin/Debug/net7.0/2-SwapInt.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/bin/Debug/net7.0/2-SwapInt.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/bin/Debug/net7.0/2-SwapInt.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/refint/2-SwapInt.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/2-SwapInt.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2-SwapInt/obj/Debug/net7.0/ref/2-SwapInt.dll

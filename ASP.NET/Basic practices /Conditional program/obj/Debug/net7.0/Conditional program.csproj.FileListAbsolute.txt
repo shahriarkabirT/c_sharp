@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/bin/Debug/net7.0/Conditional program
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/bin/Debug/net7.0/Conditional program.deps.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/bin/Debug/net7.0/Conditional program.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/bin/Debug/net7.0/Conditional program.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/bin/Debug/net7.0/Conditional program.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/refint/Conditional program.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/Conditional program.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/Basic practices /Conditional program/obj/Debug/net7.0/ref/Conditional program.dll

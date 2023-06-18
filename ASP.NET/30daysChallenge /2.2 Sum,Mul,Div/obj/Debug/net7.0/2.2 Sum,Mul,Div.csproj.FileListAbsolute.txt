@@ -1,0 +1,15 @@
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/bin/Debug/net7.0/2.2 Sum,Mul,Div
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/bin/Debug/net7.0/2.2 Sum,Mul,Div.deps.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/bin/Debug/net7.0/2.2 Sum,Mul,Div.runtimeconfig.json
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/bin/Debug/net7.0/2.2 Sum,Mul,Div.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/bin/Debug/net7.0/2.2 Sum,Mul,Div.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.csproj.AssemblyReference.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.AssemblyInfoInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.AssemblyInfo.cs
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.csproj.CoreCompileInputs.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/refint/2.2 Sum,Mul,Div.dll
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.pdb
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/2.2 Sum,Mul,Div.genruntimeconfig.cache
+/Users/shahriarkabir/Development files/c_sharp/ASP.NET/30daysChallenge /2.2 Sum,Mul,Div/obj/Debug/net7.0/ref/2.2 Sum,Mul,Div.dll
